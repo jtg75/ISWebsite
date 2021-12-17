@@ -1,0 +1,29 @@
+.italics {
+    font-style: italic;
+    color: rgb(124, 122, 122);
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
+
+.boldlist {
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+
+iframe {
+    width: 560px;
+    height: 315px;
+}
+
+body {
+    background-color: rgb(246, 255, 255);
+}
